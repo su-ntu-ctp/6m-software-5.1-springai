@@ -1,4 +1,4 @@
-# 1.1: Insert Lesson Title
+# 5.1: Spring AI
 
 ## Dependencies
 
